@@ -21,7 +21,7 @@ cd /ns-allinone-3.32/ns-3.32
 ## Run
 ```
 cd folder_have_waf_file 
-./waf --pyrun scrach/use_case.py
+./waf --pyrun scrach/uan_simulator.py
 ```
 ## Note 
 ```
